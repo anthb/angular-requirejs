@@ -1,0 +1,191 @@
+[
+  {
+    "Id": "53f17945b0426e95be58a867",
+    "PrimaryProfileId": "8f1849aa-18dc-4e55-a347-987c93e30fdb",
+    "SessionType": 24,
+    "Username": "Reyes",
+    "Profiles": [
+      {
+        "Id": "53f17945b390de11a4307732",
+        "Username": "Watson",
+        "Firstname": "Silva",
+        "Lastname": "Briggs"
+      },
+      {
+        "Id": "53f17945dae6be23508b7af3",
+        "Username": "Vincent",
+        "Firstname": "Mack",
+        "Lastname": "Mejia"
+      },
+      {
+        "Id": "53f17945fcf3973e1c710aa5",
+        "Username": "Hampton",
+        "Firstname": "Barron",
+        "Lastname": "Mueller"
+      }
+    ],
+    "Items": []
+  },
+  {
+    "Id": "53f179459d6dd28a706f5b4d",
+    "PrimaryProfileId": "e6940e89-0987-4fb2-a7f5-fd55e8595502",
+    "SessionType": 9,
+    "Username": "Gaines",
+    "Profiles": [
+      {
+        "Id": "53f1794516a54649a8671804",
+        "Username": "Henderson",
+        "Firstname": "Cassie",
+        "Lastname": "Hayden"
+      },
+      {
+        "Id": "53f179450ea4d00d49a6a31e",
+        "Username": "Thornton",
+        "Firstname": "Booker",
+        "Lastname": "Lamb"
+      },
+      {
+        "Id": "53f1794538eecc4f7d1f4116",
+        "Username": "Bennett",
+        "Firstname": "Mercado",
+        "Lastname": "Duffy"
+      }
+    ],
+    "Items": []
+  },
+  {
+    "Id": "53f17945ceb181f098f0488f",
+    "PrimaryProfileId": "2eef6da8-3f17-4f03-b013-d3c9dcc76c23",
+    "SessionType": 6,
+    "Username": "Drake",
+    "Profiles": [
+      {
+        "Id": "53f17945b20dbbaaa89820e7",
+        "Username": "Romero",
+        "Firstname": "Johanna",
+        "Lastname": "Davidson"
+      },
+      {
+        "Id": "53f179451f73acbe06ddef53",
+        "Username": "Pickett",
+        "Firstname": "Roseann",
+        "Lastname": "Frost"
+      },
+      {
+        "Id": "53f17945bcb7db8c684d0fea",
+        "Username": "Black",
+        "Firstname": "Bennett",
+        "Lastname": "Avery"
+      }
+    ],
+    "Items": []
+  },
+  {
+    "Id": "53f17945006f1073214c6765",
+    "PrimaryProfileId": "983a4a8e-e194-4f7d-94eb-c99daa2195f8",
+    "SessionType": 13,
+    "Username": "Melendez",
+    "Profiles": [
+      {
+        "Id": "53f1794509c6a8a74736c6e5",
+        "Username": "Beck",
+        "Firstname": "Laurel",
+        "Lastname": "Raymond"
+      },
+      {
+        "Id": "53f17945277882ecabe26e97",
+        "Username": "Russo",
+        "Firstname": "Ferrell",
+        "Lastname": "Vance"
+      },
+      {
+        "Id": "53f1794553fa1576b0dc4c43",
+        "Username": "Cabrera",
+        "Firstname": "Parsons",
+        "Lastname": "Buckner"
+      }
+    ],
+    "Items": []
+  },
+  {
+    "Id": "53f17945e17aed28696d0651",
+    "PrimaryProfileId": "b7116ca7-c7b5-4af3-8308-335620b601d2",
+    "SessionType": 3,
+    "Username": "Vang",
+    "Profiles": [
+      {
+        "Id": "53f179450bd7c3b676e26d6f",
+        "Username": "Cannon",
+        "Firstname": "Deidre",
+        "Lastname": "Molina"
+      },
+      {
+        "Id": "53f179456e0f249052a0c867",
+        "Username": "Deleon",
+        "Firstname": "Roberts",
+        "Lastname": "Mcguire"
+      },
+      {
+        "Id": "53f179454def8a8c014f546c",
+        "Username": "England",
+        "Firstname": "Renee",
+        "Lastname": "Diaz"
+      }
+    ],
+    "Items": []
+  },
+  {
+    "Id": "53f1794541152e6f20fda7e4",
+    "PrimaryProfileId": "fd010b9c-0c9f-42ef-86a5-4a521eda8cfe",
+    "SessionType": 17,
+    "Username": "Barnett",
+    "Profiles": [
+      {
+        "Id": "53f1794540f53b82d959c712",
+        "Username": "Whitehead",
+        "Firstname": "Lena",
+        "Lastname": "Jordan"
+      },
+      {
+        "Id": "53f179455b72fda91885e097",
+        "Username": "Howard",
+        "Firstname": "Belinda",
+        "Lastname": "Ryan"
+      },
+      {
+        "Id": "53f17945fc33d23164de4052",
+        "Username": "Herman",
+        "Firstname": "Mcguire",
+        "Lastname": "Sullivan"
+      }
+    ],
+    "Items": []
+  },
+  {
+    "Id": "53f179456024b4d1905621bb",
+    "PrimaryProfileId": "d18c66bc-ad4a-484f-93a2-5f1d2536cbd2",
+    "SessionType": 8,
+    "Username": "Levy",
+    "Profiles": [
+      {
+        "Id": "53f179457ee76bef6eac1c32",
+        "Username": "Conner",
+        "Firstname": "Christy",
+        "Lastname": "Everett"
+      },
+      {
+        "Id": "53f1794567d43549ad311dd6",
+        "Username": "Steele",
+        "Firstname": "Kim",
+        "Lastname": "Burris"
+      },
+      {
+        "Id": "53f179458627e0c55d6cd8e2",
+        "Username": "Humphrey",
+        "Firstname": "Eunice",
+        "Lastname": "Estes"
+      }
+    ],
+    "Items": []
+  }
+]
